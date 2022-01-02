@@ -1,0 +1,15 @@
+{
+    "background_color": "purple",
+    "description": "Counts the carbs in a meal",
+    "display": "fullscreen",
+    "icons": [
+        {
+            "src": "cc.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "name": "Counting carbs",
+    "short_name": "Counting carbs",
+    "start_url": "https://counting-carbs.vercel.app/"
+}
